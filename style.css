@@ -1,0 +1,32 @@
+header {
+    background-color: ;
+    color:
+}
+
+.cabecalho {
+    color:black;
+    margin-left: 530px;
+    text-align: center;
+    display: flex;
+}
+
+.cabecalho-lista-1 {
+    color:aliceblue;
+    margin-left: 200px; /* alinhamento a esquerda */
+    padding: 40px; /* espaçamento vertical */
+    display: inline-block;
+    justify-content: center;
+}
+
+.cabecalho-lista-2 {
+    color:aliceblue;
+    margin-left: 205px; /* alinhamento à esquerda */
+    padding: 40px; /* espaçamento vertical */
+    display: inline-block;
+    justify-content: center;
+}
+
+boby {
+    background-color: beige(252, 252, 173);
+    color: black;
+}
