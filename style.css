@@ -11,7 +11,7 @@ header {
 }
 
 .cabecalho-lista-1 {
-    color:aliceblue;
+    color:#000000 
     margin-left: 200px; /* alinhamento a esquerda */
     padding: 40px; /* espaçamento vertical */
     display: inline-block;
