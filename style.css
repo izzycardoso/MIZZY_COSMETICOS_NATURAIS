@@ -11,7 +11,7 @@ header {
 }
 
 .cabecalho-lista-1 {
-    color:#000000 
+    color:#000000;
     margin-left: 200px; /* alinhamento a esquerda */
     padding: 40px; /* espaçamento vertical */
     display: inline-block;
@@ -19,7 +19,7 @@ header {
 }
 
 .cabecalho-lista-2 {
-    color:aliceblue;
+    color:rgb(0, 0, 0);
     margin-left: 205px; /* alinhamento à esquerda */
     padding: 40px; /* espaçamento vertical */
     display: inline-block;
